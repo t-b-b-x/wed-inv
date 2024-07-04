@@ -75,7 +75,7 @@ body {
     /* transform: scale(103%);
     animation: movingBorders 3s infinite; */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-
+    border-radius: 20px;
 }
 
 .card {
@@ -150,6 +150,7 @@ body {
 .flip-button:hover {
     /* transform: translateX(-50%);   зняти комент якщо не буде ховера */
     transform: scale(105%);
+    background-color: rgb(190, 110, 123);
     /* animation: movingBorders 3s infinite; */
 }
 
